@@ -1,0 +1,42 @@
+{
+  "name": "skillauro-certificate-generator",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^15.3.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "typescript": "^5.6.2",
+    "@types/node": "^22.7.4",
+    "@types/react": "^18.3.11",
+    "@types/react-dom": "^18.3.0",
+    "tailwindcss": "^3.4.13",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47",
+    "googleapis": "^144.0.0",
+    "pdf-lib": "^1.17.1",
+    "qrcode": "^1.5.4",
+    "@types/qrcode": "^1.5.5",
+    "resend": "^4.0.0",
+    "sharp": "^0.33.5",
+    "jose": "^5.9.3",
+    "cookies-next": "^4.3.0",
+    "lucide-react": "^0.447.0",
+    "clsx": "^2.1.1",
+    "tailwind-merge": "^2.5.3",
+    "react-hot-toast": "^2.4.1",
+    "date-fns": "^4.1.0",
+    "jszip": "^3.10.1",
+    "@types/jszip": "^3.4.1"
+  },
+  "devDependencies": {
+    "eslint": "^9.12.0",
+    "eslint-config-next": "15.0.0"
+  }
+}
